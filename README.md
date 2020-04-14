@@ -13,6 +13,34 @@ The `output` folder contains expected results and figures.
 
 ### Dependencies
 The main analysis workflow is run in
-  R version 3.5.3
-  
-  
+
+  `R version 3.5.3`
+
+Additionally it requires the following R libraries.
+```
+matrixStats  
+biomaRt  
+pheatmap  
+data.table  
+tidyr  
+plyr  
+dplyr  
+ConsensusClusterPlus  
+riverplot  
+digest  
+wordspace  
+DNAcopy  
+grid  
+ggplot2  
+trackViewer  
+gridExtra  
+circlize  
+graphics  
+readxl  
+rjson  
+RCurl  
+stringr  
+survival  
+grDevices  
+ggsignif
+ ```
