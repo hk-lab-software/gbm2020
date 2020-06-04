@@ -1,4 +1,4 @@
-### Integrated pharmaco-proteogenomics inform prognostic and therapeutic opportunities in isocitrate dehydrogenase wild-type glioblastoma
+### Integrated pharmaco-proteogenomics defines two subgroups in isocitrate dehydrogenase wild-type glioblastoma with prognostic and therapeutic opportunities
 This repository provides R scripts to carry out the analyses presented in 'Integrated pharmaco-proteogenomics inform prognostic and therapeutic opportunities in isocitrate dehydrogenase wild-type glioblastoma'.
 
 ### Contents
